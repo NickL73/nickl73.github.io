@@ -1,6 +1,6 @@
 ---
-layout: page
-title:  "This is a test page."
+layout: splash
+title:  "Blog"
 permalink: /blog/
 ---
 
