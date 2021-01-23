@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicholas Lunsford"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/georgia.png"
   bio              : "Security researcher specializing in improving the security of machine learning applications."
   location         : "Boston, MA"
   email            : nick.lunsford73@gmail.com
@@ -113,10 +113,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/NickL73"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/nicholas.lunsford/"
 
 # Site Footer
 footer:
