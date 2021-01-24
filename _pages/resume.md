@@ -4,12 +4,17 @@ permalink: /resume/
 layout: single
 author_profile: true
 ---
+```python
+def foo(bar):
+	return something 
+```
 
-##*Education*
+*Education*
 
 2020 - 2022 (*expected*)
 : **M.S., Cybersecurity**; Northeastern Univeristy (Boston, MA)
-	*Thesis: Something soemthing*
+	
+*Thesis: Something soemthing*
 
 2016 - 2020
 :	**B.S., Computer Science**; United States Military Academy (West Point, NY)
@@ -19,7 +24,7 @@ author_profile: true
 
 ---
 
-##*Work Experience*
+*Work Experience*
 
 **Research Fellow**, Massachussets Institue of Technology Lincoln Laboratory
 
@@ -37,7 +42,7 @@ Short text of description of work.
 
 ---
 
-##*Skills*
+*Skills*
 
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
