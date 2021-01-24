@@ -1,8 +1,6 @@
 ---
-layout: single
-title:  "Blog"
+title: "Blog"
+permalink: /year-archive/
+layout: posts
 author_profile: true
-permalink: /blog/
 ---
-
-This is test blog page.
