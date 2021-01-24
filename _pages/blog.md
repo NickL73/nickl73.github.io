@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Blog"
+author_profile: true
 permalink: /blog/
 ---
 
