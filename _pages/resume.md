@@ -13,11 +13,12 @@ def foo(bar):
 
 2020 - 2022 (*expected*)
 : **M.S., Cybersecurity**; Northeastern Univeristy (Boston, MA)
+    GPA: 3.92/4.00
 	
-*Thesis: Something soemthing*
 
 2016 - 2020
 :	**B.S., Computer Science**; United States Military Academy (West Point, NY)
+    GPA: 3.63/4.00
 
 2012 - 2016
 :	**Diploma**; Saint Thomas Academy (Mendota Heights, MN)
@@ -26,7 +27,7 @@ def foo(bar):
 
 *Work Experience*
 
-**Research Fellow**, Massachussets Institue of Technology Lincoln Laboratory
+**Military Research Fellow**, Massachussets Institue of Technology Lincoln Laboratory
 
 Short text of description of work.
 
@@ -41,6 +42,7 @@ Short text of description of work.
 * List two
 
 ---
+*Public Projects*
 
 *Skills*
 
