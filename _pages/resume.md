@@ -12,16 +12,16 @@ def foo(bar):
 *Education*
 
 2020 - 2022 (*expected*)
-: **M.S., Cybersecurity**; Northeastern Univeristy (Boston, MA)
-    GPA: 3.92/4.00
+: **M.S., Cybersecurity**; Northeastern Univeristy (Boston, Massachusetts)
+: - GPA: 3.92/4.00
 	
 
 2016 - 2020
-:	**B.S., Computer Science**; United States Military Academy (West Point, NY)
-    GPA: 3.63/4.00
+: **B.S., Computer Science**; United States Military Academy (West Point, New York)
+: -  GPA: 3.63/4.00
 
 2012 - 2016
-:	**Diploma**; Saint Thomas Academy (Mendota Heights, MN)
+:	**Diploma**; Saint Thomas Academy (Mendota Heights, Minnesota)
 
 ---
 
